@@ -1,12 +1,13 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {"NAME":"Uma Mulher na Escuridao",
+     "PRICE": 30
+    },
+    
+    {"NAME":"Trono de Vidro: Reino de Cinzas",
+     "PRICE": 64
+    },
+    
+    {"NAME":"Desencontros a Beira-Mar",
+     "PRICE": 22
+    }    
+]
