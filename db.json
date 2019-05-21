@@ -1,3 +1,14 @@
-{
-    "restConnector":
-}
+[
+    {   
+        "NAME":"Uma Mulher na Escuridao",
+        "PRICE": 30
+    },    
+    {
+        "NAME":"Trono de Vidro: Reino de Cinzas",
+        "PRICE": 64
+    },    
+    {
+        "NAME":"Desencontros a Beira-Mar",
+        "PRICE": 22
+    } 
+]
